@@ -1,3 +1,3 @@
-a = 'helloworld'
-for i in range(2):
-    print(a)
+while True:
+    print('a')
+    
